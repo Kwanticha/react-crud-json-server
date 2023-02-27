@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Kwanticha phanpetch",
+      "email": "Kwanticha@gmail.com",
+      "phone": "1234567891",
+      "status": "true"
+    },
+    {
+      "id": 2,
+      "name": "solo susu",
+      "email": "susu@gmail.com",
+      "phone": "1234567891",
+      "status": "true"
+    },
+    {
+      "id": 3,
+      "name": "xoxo susu",
+      "email": "xoxo@gmail.com",
+      "phone": "1234567891",
+      "status": "true"
+    },
+    {
+      "name": "ghhh",
+      "email": "vkvk@gmail.com",
+      "phone": "12345678",
+      "status": "on",
+      "id": 4
+    }
+  ]
+}
